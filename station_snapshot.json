@@ -1,0 +1,20 @@
+{
+    "spectrum_metadata": {
+        "device_type": "Спектроаналізатор сигналу",
+        "snapshot_generated_at": "2026-11-24 00:27:54",
+        "pipeline_version": "1.0.0"
+    },
+    "spectrum_analysis_summary": {
+        "total_read_rows": 10,
+        "valid_saved_rows": 6,
+        "anomalous_rows_dropped": 4,
+        "central_frequency_mhz": 104.5
+    },
+    "spectrum_binary_audit": {
+        "magic_signature_hex": "0x53504543",
+        "firmware_version": "v2.5",
+        "total_image_size_bytes": 12,
+        "payload_size_bytes": 6,
+        "is_signature_valid": true
+    }
+}
